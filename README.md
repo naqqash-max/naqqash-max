@@ -98,8 +98,8 @@ A water drinking reminder app to help users build a healthy hydration habit.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naqqash-max&show_icons=true&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27&hide_border=false" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqqash-max&layout=compact&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27&hide_border=false" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=naqqash-max&show_icons=true&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27&hide_border=false" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naqqash-max&layout=compact&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27&hide_border=false" alt="Top languages" height="165"/>
 </div>
 
 <div align="center">
