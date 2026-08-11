@@ -39,7 +39,11 @@ const naqqash = {
 A weather & AQI (Air Quality Index) checking website based on the user's live location.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naqqash-max&repo=Eco_watch&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27" alt="Eco-Watch repo card"/>
+
+[![Repo](https://img.shields.io/badge/repo-Eco__watch-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naqqash-max/Eco_watch)
+![Top Language](https://img.shields.io/github/languages/top/naqqash-max/Eco_watch?style=for-the-badge&color=0891b2)
+![Last Commit](https://img.shields.io/github/last-commit/naqqash-max/Eco_watch?style=for-the-badge&color=0891b2)
+
 </div>
 
 | Layer | Technology |
@@ -56,7 +60,11 @@ A weather & AQI (Air Quality Index) checking website based on the user's live lo
 A water drinking reminder app to help users build a healthy hydration habit.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naqqash-max&repo=AquaPulse&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27" alt="Aqua-Pulse repo card"/>
+
+[![Repo](https://img.shields.io/badge/repo-AquaPulse-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naqqash-max/AquaPulse)
+![Top Language](https://img.shields.io/github/languages/top/naqqash-max/AquaPulse?style=for-the-badge&color=0891b2)
+![Last Commit](https://img.shields.io/github/last-commit/naqqash-max/AquaPulse?style=for-the-badge&color=0891b2)
+
 </div>
 
 | Layer | Technology |
