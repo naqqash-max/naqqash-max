@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=200&section=header&text=Naqqash%20Max&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Networking%20Aspirant&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=280&section=header&text=Naqqash%20Max&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Networking%20Aspirant&descSize=17&descAlignY=80" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/naqqash-max">
@@ -39,7 +39,7 @@ const naqqash = {
 A weather & AQI (Air Quality Index) checking website based on the user's live location.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naqqash-max&repo=Eco-Watch&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27" alt="Eco-Watch repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naqqash-max&repo=Eco_watch&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27" alt="Eco-Watch repo card"/>
 </div>
 
 | Layer | Technology |
@@ -48,7 +48,7 @@ A weather & AQI (Air Quality Index) checking website based on the user's live lo
 | Backend | Node.js |
 | Hosting/Media | Cloudinary |
 
-🔗 [Code](https://github.com/naqqash-max/Eco-Watch)
+🔗 [Code](https://github.com/naqqash-max/Eco_watch)
 
 <br/>
 
@@ -56,7 +56,7 @@ A weather & AQI (Air Quality Index) checking website based on the user's live lo
 A water drinking reminder app to help users build a healthy hydration habit.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naqqash-max&repo=aqua-pulse&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27" alt="Aqua-Pulse repo card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naqqash-max&repo=AquaPulse&theme=nord&border_color=0891b2&title_color=0891b2&text_color=c0caf5&bg_color=1a1b27" alt="Aqua-Pulse repo card"/>
 </div>
 
 | Layer | Technology |
@@ -64,7 +64,7 @@ A water drinking reminder app to help users build a healthy hydration habit.
 | App | Flutter |
 | Backend | Firebase |
 
-🔗 [Code](https://github.com/naqqash-max/aqua-pulse)
+🔗 [Code](https://github.com/naqqash-max/AquaPulse)
 
 <br/>
 
