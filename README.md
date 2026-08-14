@@ -23,7 +23,7 @@
 
 ```typescript
 const naqqash = {
-  title: "Full Stack Developer | CS Student | Networking Aspirant",
+  title: "Full Stack Developer | CS Graduate | Networking Aspirant",
   stack: ["React.js", "Node.js", "Flutter", "Firebase", "Cloudinary", "VS Code", "Antigravity"],
   launchedProjects: ["Eco-Watch", "Aqua-Pulse"],
   status: "Building real-world apps and sharpening my full-stack + networking skills daily",
