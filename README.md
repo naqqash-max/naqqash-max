@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=280&section=header&text=Naqqash%20Max&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Networking%20Aspirant&descSize=17&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=280&section=header&text=Naqqash%20Max&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20CS%20Graduate%20%7C%20Networking%20Aspirant&descSize=17&descAlignY=80" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/naqqash-max">
